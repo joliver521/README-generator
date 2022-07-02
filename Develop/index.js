@@ -55,7 +55,7 @@ const questions = () => {
     },
     {
       type: 'input',
-      message: 'Including yourself, please list out all contributors',
+      message: 'Including yourself, please list all of the contributors',
       name: 'contributor',
     },
     {
