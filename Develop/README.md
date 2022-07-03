@@ -1,43 +1,35 @@
-# REAMDE Generator
+
+  # README Generator
 
 ## License: MIT ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+###  https://choosealicense.com/licenses/mit/
+  
+  ## Description
+  Professional README Generator
 
-### https://choosealicense.com/licenses/mit/
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Contributors](#contributors)
+  - [Contact](#contact)
+  
+  ## Installation
+  inquirer
 
-## Description
+  ## Usage
+  Fill out questions and README file is created
 
-A professional README that is created in the terminal.
+  ## License
+  MIT
 
-## Table of Contents
+  ## Tests
+  node index.js
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Tests](#tests)
-- [Contributors](#contributors)
-- [Contact](#contact)
+  ## Contributors
+  Jason Oliver
 
-## Installation
-
-inquirer
-
-## Usage
-
-Open terminal and type in "node index.js"
-
-## License
-
-MIT
-
-## Tests
-
-node index.js
-
-## Contributors
-
-Jason Oliver
-
-## Contact
-
-- GitHub: [joliver521](https://github.com/joliver521)
-- Email: joliver521@gmail.com
+  ## Contact
+  - GitHub: [joliver521](https://github.com/joliver521)
+  - Email: joliver521

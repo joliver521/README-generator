@@ -12,7 +12,7 @@ Layout and content were built using JavaScript, NodeJS and Inquirer.
 
 ## README Walkthrough Video
 
-![Video of the function of the README Generator](assets/videos/README%20Generator.mp4)
+### [Video of the function of the README Generator](https://drive.google.com/file/d/1pZq-Hqrw67C-MqaGepLQNTY1QhzrAZRP/view?usp=sharing)
 
 ![Screen shot of the JavaScript Code Website Questions Screen](./assets/images/README-screen-shot.png)
 
