@@ -1,4 +1,4 @@
-# kjadkjd
+# REAMDE Generator
 
 ## License: MIT ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-kasdjfkjda
+A professional README that is created in the terminal.
 
 ## Table of Contents
 
@@ -19,11 +19,11 @@ kasdjfkjda
 
 ## Installation
 
-ladjfkasd
+inquirer
 
 ## Usage
 
-lkajdfkjd
+Open terminal and type in "node index.js"
 
 ## License
 
@@ -31,13 +31,13 @@ MIT
 
 ## Tests
 
-ladjfkjds
+node index.js
 
 ## Contributors
 
-lajdfkjd
+Jason Oliver
 
 ## Contact
 
-- GitHub: [kajdkf](https://github.com/kajdkf)
-- Email: kajdkfj
+- GitHub: [joliver521](https://github.com/joliver521)
+- Email: joliver521@gmail.com
