@@ -5,6 +5,7 @@ const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
+// User question prompts
 const questions = () => {
   return inquirer.prompt([
     {
@@ -64,10 +65,11 @@ const questions = () => {
       message: 'What command is used to run a test?',
       name: 'tests',
     },
-  ]);
-};
+  ]); // End of return
+}; // End of questions function
 
 // TODO: Create a function to write README file
+// Function that writes to the README file
 function writeToFile(fileName, data) {
   return new Promise((resolve, reject) => {
     fs.writeFile(fileName, data, err => {
